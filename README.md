@@ -1,3 +1,4 @@
+
 # US-Visa-Approval-Prediction
 
 
@@ -131,6 +132,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-• **Suggestions**: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or improvements you would like to see!
 
-#### Don't forget to give the project a star! Thanks again!
+
+
